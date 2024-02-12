@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>Get Unit Data</Text>
+		<Description>Gets the ForgeTypeId Unit data from a file.</Description>
+		<Assembly>RevitUnitsDemystified.dll</Assembly>
+		<FullClassName>RevitUnitsDemystified.UnitsExtractor</FullClassName>
+		<ClientId>AE55CD4D-7B1F-4B1B-ABD7-784F0F96F081</ClientId>
+		<VendorId>xyz.framebuffer.rvtunits</VendorId>
+		<VendorDescription>Sebastian Torres Sagredo</VendorDescription>
+	</AddIn>
+</RevitAddIns>
