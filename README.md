@@ -1,1 +1,4 @@
 # RevitUnitsDemystified
+![Model_Validation_Framework_for_Autodesk_Revit_42d042507c1942cb824f1e708dccc3b9Documentation_33c5d3330a03439bbfad4f18e0e55f97Validating_Model_Units_inside_Revit_e93d9b4a215444c6b2043cf231171d9fGranite_UnitMap](https://github.com/stsagredo/RevitUnitsDemystified/assets/159783646/93d2d997-04ff-4260-892e-d1d4805d8193)
+
+Creates a JSON report of the currently set Unit schema inside a Revit Document.
